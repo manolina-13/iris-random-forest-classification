@@ -29,7 +29,4 @@ This repository contains a Jupyter Notebook that builds and evaluates a **Random
 2. Run all cells from top to bottom.
 3. Check the final output cells for best score and optimal `n_estimators`.
 
-## Notes
 
-- This is an educational machine learning assignment notebook.
-- The cleaned notebook version removes personal semester details for public GitHub sharing.
