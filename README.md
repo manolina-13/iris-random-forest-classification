@@ -30,3 +30,12 @@ This repository contains a Jupyter Notebook that builds and evaluates a **Random
 3. Check the final output cells for best score and optimal `n_estimators`.
 
 
+## License
+
+This project is distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Manolina Das - [GitHub Profile](https://github.com/manolina-13)
+
+
